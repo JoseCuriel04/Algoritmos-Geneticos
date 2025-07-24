@@ -1,5 +1,7 @@
 # 🧬 Algoritmo Genético en Python con PyGAD
 
+![Algoritmo Genético](img/Algoritmo.png)  <!-- Inserta la imagen aquí -->
+
 > 🎓 **Proyecto educativo** que demuestra cómo usar un **Algoritmo Genético (AG)** para resolver un problema de optimización: **maximizar la función f(x) = x²**, utilizando la librería [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython).
 
 ---
